@@ -1,0 +1,1 @@
+{\n  "name": "brian-etole-portfolio",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "build": "echo 'Building...'; mkdir -p dist; cp -R src/* dist/",\n    "start": "node dist/index.js"\n  },\n  "dependencies": {},\n  "devDependencies": {}\n}
